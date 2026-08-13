@@ -13,13 +13,13 @@
 <h2 align="center"> 🛠️ Tools & Technologies I Use</h2>
 
 <p align="center">
-  <img src="./icons/photoshop.svg" width="48" style="margin-right:32px;" />
-  <img src="./icons/illustrator.svg" width="48" style="margin-right:32px;" />
-  <img src="./icons/indesign.svg" width="48" style="margin-right:32px;" />
-  <img src="./icons/aftereffects.svg" width="48" style="margin-right:32px;" />
-  <img src="./icons/premierepro.svg" width="48" style="margin-right:32px;" />
-  <img src="./icons/figma.svg" width="48" style="margin-right:32px;" />
-  <img src="./icons/blender.svg" width="48" />
+  <img src="photoshop.svg" width="48" style="margin-right:32px;" />
+  <img src="illustrator.svg" width="48" style="margin-right:32px;" />
+  <img src="indesign.svg" width="48" style="margin-right:32px;" />
+  <img src="aftereffects.svg" width="48" style="margin-right:32px;" />
+  <img src="premierepro.svg" width="48" style="margin-right:32px;" />
+  <img src="figma.svg" width="48" style="margin-right:32px;" />
+  <img src="blender.svg" width="48" />
 </p>
 
 <h2 align="center">📬 Contact Me</h2>
